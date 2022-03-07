@@ -35,7 +35,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
-  // target: "static",
+  target: "static",
   // router: {
   //   base: "http://quezzo-dev.github.io/DIGITAL-MARKETING",
   // },
